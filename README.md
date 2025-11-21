@@ -60,7 +60,7 @@ _(Add actual screenshots to `screenshots/` folder)_
 ```bash
 # Clone the repo
 git clone <repository_url>
-cd smart-home-controller
+cd smart-home
 
 # Install dependencies
 pip install flet
@@ -71,7 +71,7 @@ pip install flet
 ## ▶ Running the App
 
 ```bash
-python main.py
+python smart_home.py
 ```
 
 - Opens a window (950x700) with a **light theme**.
